@@ -2,6 +2,12 @@
 
 GrandStay is a modern hotel management solution designed to simplify and organize everyday hotel operations in one place.
 
+## Live Demo
+
+Experience the GrandStay Hotel Management System live:
+
+🔗 https://gunasri-km.github.io/GrandStay-Hotel-Management-System/
+
 ## Overview
 
 The system provides a centralized platform for managing hotel rooms, guests, reservations, dining services, billing, and daily availability. It helps organize important hotel activities and provides a smooth management experience.
